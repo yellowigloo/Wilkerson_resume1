@@ -2,7 +2,7 @@
 layout: cv
 title: Aaron Wilkerson's Resume
 ---
-# Brigham Young
+# Aaron Wilkerson
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
